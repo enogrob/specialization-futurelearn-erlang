@@ -9,13 +9,14 @@ Solution Integrator Experienced - Certified by Ericsson
 
 **About**
 
-Learn everything you need to about the subject of this `Specialization` project.
+Consist of a pair of MOOCs on Erlang with the FutureLearn MOOC provider, one on [Functional Programming in Erlang](https://www.futurelearn.com/courses/functional-programming-erlang/) based on the pilot MOOC and a new one on [Concurrent Programming in Erlang](https://www.futurelearn.com/courses/concurrent-programming-erlang/) in Erlang, which follows on from the first.
 
-[Homepage1](https://www.futurelearn.com/courses/functional-programming-erlang/)
-[Homepage2](https://www.futurelearn.com/courses/concurrent-programming-erlang/)
+* [Github-Functional Programming in Erlang](https://github.com/enogrob/futurelearn-functional-programming-in-erlang)
+
+* [Github-Concurrent Programming in Erlang](https://github.com/enogrob/futurelearn-concurrent-programming-in-erlang)
 
 ## Topics
 ```
-[x] futurelearn-functional-programming-in-erlang
-[ ] futurelearn-concurrent-programming-in-erlang
+[x] 2017-02-20 ~> 2017-03-05 futurelearn-functional-programming-in-erlang
+[~] 2017-04-03 ~> 2017-04-23 futurelearn-concurrent-programming-in-erlang
 ```
